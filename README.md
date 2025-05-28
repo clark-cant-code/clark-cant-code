@@ -19,15 +19,12 @@ I post under the username `bridgebot` on LessWrong and Medium.
 
 ## 💬 Talks:
 
-
-**Open Discussion: AI Welfare**
-<sup title="'Are current AI systems moral patients? Will they be? Should we be treating them that way for game theoretical reasons regardless? What concrete actions might AI welfare involve? Have you experienced love or social connection with AI? What bearing do these topics have on AI Safety?
-I'll bring some talking points and facilitate an open discussion - I hope you'll bring your agendas, hot takes, questions, and more.'">1</sup>
-March 2025 @ Lighthaven Campus 
+**Open Discussion: AI Welfare**  
+March 2025 @ Lighthaven Campus  
 as a session of [DunCon](https://www.duncon2025.com/)
 
-**Surfing Meaning-Space with LLMs**
-August 2025 @ college preparatory school 
+**Surfing Meaning-Space with LLMs**  
+August 2025 @ college preparatory school  
 as a professional growth track for faculty
 
 
