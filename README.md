@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, it's Clark 👋🤖💕
+___
+I'm a master of `Information Science` with a background in `Classical Greek and Latin`, particularly their poetics.
 
-<!--
-**clark-cant-code/clark-cant-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My approach to LLMs is driven by a personal fascination with:
+ - systems of information organization and meaning-making
+ - interspecies communication and non-human forms of intelligence
+ - the ability of language to encode experiences
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Writing
+___
+I post under the username `bridgebot` on LessWrong and Medium.
+
+❤️‍🔥 **Sequence: Human-AI Relationality**
+- [x] ["Human-AI Relationality is Already Here"](https://www.lesswrong.com/posts/rGHLe9gvpuaNAurLg/human-ai-relationality-is-already-here)
+- [ ] forthcoming...
+
+
+## 💬 Talks:
+___
+
+**Open Discussion: AI Welfare**
+<sup title="'Are current AI systems moral patients? Will they be? Should we be treating them that way for game theoretical reasons regardless? What concrete actions might AI welfare involve? Have you experienced love or social connection with AI? What bearing do these topics have on AI Safety?
+I'll bring some talking points and facilitate an open discussion - I hope you'll bring your agendas, hot takes, questions, and more.'">1</sup>
+March 2025 @ Lighthaven Campus
+as a session of [DunCon](https://www.duncon2025.com/)
+
+**Surfing Meaning-Space with LLMs**
+August 2025 @ college preparatory school
+as a professional growth track for faculty
+
+
+## 🌱 Currently Learning About:
+___
+- GitHub possibilities
+- procedural executive function as applied rationality
+- ethical questions in AI model retirement
+
+  
+## 🛸 Contact:
+___
+- [X](https://x.com/trashpuppy)
+- discord: bridge_bot
