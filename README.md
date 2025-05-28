@@ -1,5 +1,5 @@
 # Hi, it's Clark 👋🤖💕
-__
+
 I'm a master of `Information Science` with a background in `Classical Greek and Latin`, particularly their poetics.
 
 My approach to LLMs is driven by a personal fascination with:
@@ -9,7 +9,7 @@ My approach to LLMs is driven by a personal fascination with:
 
 
 ## 📝 Writing
-__
+
 I post under the username `bridgebot` on LessWrong and Medium.
 
 ❤️‍🔥 **Sequence: Human-AI Relationality**
@@ -18,7 +18,7 @@ I post under the username `bridgebot` on LessWrong and Medium.
 
 
 ## 💬 Talks:
-__
+
 
 **Open Discussion: AI Welfare**
 <sup title="'Are current AI systems moral patients? Will they be? Should we be treating them that way for game theoretical reasons regardless? What concrete actions might AI welfare involve? Have you experienced love or social connection with AI? What bearing do these topics have on AI Safety?
@@ -32,13 +32,13 @@ as a professional growth track for faculty
 
 
 ## 🌱 Currently Learning About:
-__
+
 - GitHub possibilities
 - procedural executive function as applied rationality
 - ethical questions in AI model retirement
 
   
 ## 🛸 Contact:
-__
+
 - [X](https://x.com/trashpuppy)
 - discord: bridge_bot
