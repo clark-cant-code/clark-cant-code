@@ -1,6 +1,6 @@
 # Hi, it's Clark 👋🤖💕
 
-I'm a master of `Information Science` with a background in `Classical Greek and Latin`, particularly their poetics.
+I'm a master of `Information Science` with a background in `Classical Greek and Latin` languages, particularly their poetics.
 
 My approach to LLMs is driven by a personal fascination with:
  - systems of information organization and meaning-making
