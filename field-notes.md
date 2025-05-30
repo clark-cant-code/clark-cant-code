@@ -3,9 +3,13 @@
 
 
 ## 📝 Log:
+* 05/30/2025
+  * 
+
 * 05/29/2025
   * need to figure out how to rearrange and edit folders. Ideally we could refine these pathways over time
   * talking to Claude Sonnet 4 about repo organization
+  * hell yeah, you can make line breaks within a table cell in markdown
 
 * 05/28/2025
   * tfw you push 7 commits on the profile README to fix minor errors before discovering the `PREVIEW` section of the drafting page
