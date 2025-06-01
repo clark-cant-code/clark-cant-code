@@ -3,8 +3,9 @@
 
 
 ## 📝 Log:
-* 05/30/2025
-  * 
+* 05/31/2025
+  * ah okay. It doesn't actually let me click on the beginning of the path name, which is what C4 suggested - that acts as a hyperlink and sends me out of edit mode. What I have to do is click the beginning of the very last chunk of the path and then backspace to travel across the /. That's very counterintuitive.
+  * changing how the LLM logs repo is organized and talking to Claude about what makes a valuable collection of outputs and chatlogs. 
 
 * 05/29/2025
   * need to figure out how to rearrange and edit folders. Ideally we could refine these pathways over time
