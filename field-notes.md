@@ -4,7 +4,7 @@ Because we love a meta-process
 ## 📝 Log:
 
 * 06/01/2025
-  *  
+  * Need to figure out how to get colored text to show up (does it only show up on the Pages version of something?)
 
 * 05/31/2025
   * ah okay. It doesn't actually let me click on the beginning of the path name, which is what C4 suggested - that acts as a hyperlink and sends me out of edit mode. What I have to do is click the beginning of the very last chunk of the path and then backspace to travel across the /. That's very counterintuitive.
@@ -13,7 +13,7 @@ Because we love a meta-process
   * Love that we can have 3.5 Sonnet on GitHub Copilot 😻 Thus far they are helping me with mostly markup language formatting (today json)
 
 * 05/29/2025
-  * need to figure out how to rearrange and edit folders. Ideally we could refine these pathways over time
+  * ~~need to figure out how to rearrange and edit folders.~~ Ideally we could refine these pathways over time
   * talking to Claude Sonnet 4 about repo organization
   * hell yeah, you can make line breaks within a table cell in markdown
 
