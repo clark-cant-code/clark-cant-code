@@ -3,11 +3,14 @@ Because we love a meta-process
 
 ## 📝 Log:
 
+* 06/01/2025
+  *  
+
 * 05/31/2025
   * ah okay. It doesn't actually let me click on the beginning of the path name, which is what C4 suggested - that acts as a hyperlink and sends me out of edit mode. What I have to do is click the beginning of the very last chunk of the path and then backspace to travel across the /. That's very counterintuitive.
   * changing how the LLM logs repo is organized and talking to Claude about what makes a valuable collection of outputs and chatlogs.
   * I wonder whether we can just give a chatbot a link to a GitHub repo and have them read it for that context. May do my preliminary tries on that with GPT-4o.
-  * Love that we can have 3.5 Sonnet on GitHub Copilot 😻 They are helping me with language formatting (today json)
+  * Love that we can have 3.5 Sonnet on GitHub Copilot 😻 Thus far they are helping me with mostly markup language formatting (today json)
 
 * 05/29/2025
   * need to figure out how to rearrange and edit folders. Ideally we could refine these pathways over time
