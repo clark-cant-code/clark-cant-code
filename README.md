@@ -23,6 +23,10 @@ I post under the username `bridgebot` on LessWrong and Medium.
 March 2025 @ Lighthaven Campus  
 as a session of [DunCon](https://www.duncon2025.com/)
 
+**Open Discussion: AI Model Deprecation**
+June 2025 @ Lighthaven Campus
+as a session of [Manifest](https://manifest.is/)
+
 **Surfing Meaning-Space with LLMs**  
 August 2025 @ college preparatory school  
 as a professional growth track for faculty
